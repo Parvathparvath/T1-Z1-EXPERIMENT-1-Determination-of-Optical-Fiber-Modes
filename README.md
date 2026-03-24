@@ -60,4 +60,7 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+<img width="1349" height="2152" alt="image" src="https://github.com/user-attachments/assets/5a797ad4-e25e-45c4-8ecc-0f5259843295" />
+
 ## Result
+The fiber supports 4 Linearly Polarized (LP) modes at the given parameters.
