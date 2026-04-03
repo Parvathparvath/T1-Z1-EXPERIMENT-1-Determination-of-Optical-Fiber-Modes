@@ -31,6 +31,8 @@ A Multimode fiber, V-number is slightly greater than 2.045 but the number of all
 When V < 2.045, then only a single mode may propagate in the fiber waveguide. This mode is HE11 mode or LP01 – Linearly Polarized mode.
 When V > 2.045, other modes may propagate, when V is slightly greater than 2.045 i.e. V = 4.91 then 4 Linearly Polarized modes will propagate through fiber.
 
+## Diagram
+<img width="654" height="646" alt="image" src="https://github.com/user-attachments/assets/d30fd83d-5f0f-49a1-835a-0ac36a971e43" />
 
 ---
 
